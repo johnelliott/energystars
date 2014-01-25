@@ -153,3 +153,22 @@ WALLS:
 
 	WallInsulation:
 	R-0 | R-3 | R-7 | R-11 | R-13 | R-15 | R-19 | R-21 | R-27 | R-33 | R-38
+
+
+WINDOW CHARACTERISTICS
+	Window Characteristics: Front or All (circle one)
+
+	Window Area (sq. ft.):
+		Front: __________
+		Right Side: ___________
+		Back: _________
+		Left Side: __________
+
+	Frame Type:
+	Aluminum | Aluminum with Thermal Break | Wood or Vinyl
+
+	Glazing Type:
+	Clear | Tinted | Solar-control low-E | Solar-control low-E, argon gas fill | Insulating low-E | Insulating low-E, argon gas fill
+
+	Actual window specifications
+	U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______
