@@ -1,0 +1,85 @@
+Home Energy Scoring Tool Data Collection Sheet
+Location Information
+Address: ________________________________ City: ________________ State: _____ Zip: ______ Assessment Type: Initial / Test / Corrected / QA / Alternative EEM (Energy Efficiency Measures) / Final
+Assessment Date: _________________ Qualified Assessor: ______________________________ Comments: ________________________________________________________________________ __________________________________________________________________________________ __________________________________________________________________________________ __________________________________________________________________________________
+House Information
+Year Built: _______________ # of Bedrooms: __________ # of Stories Above Grade: ___________ Average Ceiling Height (ft): ____________ Conditioned Floor Area (sq ft): _____________
+Direction Faced by Front of House: N / NE / E / SE / S / SW / W / NW
+Air Tightness
+Has the house been professionally air sealed?: Yes / No OR Air Leakage rate: _______________ cfm50
+Roof
+Roof Construction: Standard Roof / with Radiant Barrier / with Rigid Foam Sheathing
+Exterior Finish: Composition Shingles or Metal / Wood Shake / Clay Tile / Concrete Tile / Tar & Gravel Insulation Level (applied to roof): R-0 / R-11 / R-13 / R-15 / R-19 / R-27
+Roof Color: White / Light / Medium / Medium Dark / Dark / Cool Color: ______ (reflectivity)
+Attic
+Attic or Ceiling Type: Unconditioned Attic / Conditioned Attic / Cathedral Ceiling
+Attic Floor Insulation: R-0 / R-3 / R-6 / R-9 / R-11 / R-19 / R-21 / R-25 / R-30 / R-38 / R-49 / R-60
+Home Energy Score – Data Collection 1 Revised 6/12/2013
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+Foundation
+￼Type: Slab-on-Grade / Unconditioned Basement / Conditioned Basement / Unvented Crawlspace / Vented Crawlspace
+Insulation over Basement or Crawlspace: R-0 / R-11 / R-13 / R-15 / R-19 / R-21 / R-25 / R-30 / R-38 Foundation Insulation: None / R-5 (slab only) / R-11 (bsmt/crawl wall) / R-19 (bsmt/crawl wall)
+Walls Is this home a Townhouse or Duplex?: Yes / No Position of Unit: Right / Left / Middle Wall Characteristics: Front or All (circle one)
+Construction: Wood Frame / Wood Frame with Rigid Foam Sheathing / Wood Frame with Optimum Value Engineering (OVE) / Structural Brick / Concrete Block or Stone / Straw Bale
+Exterior Finish: Wood, Asbestos, Fiber Cement, Composite Shingle or Masonite Siding / Stucco / Vinyl Siding / Aluminum Siding / Brick Veneer
+WallInsulation: R-0/R-3/R-7/R-11/R-13/R-15/R-19/R-21/R-27/R-33/R-38
+Skylights: Yes or No (circle one):
+Total Skylight Area (sq. ft.): __________ Number of Panes: ___________
+Frame Type: Aluminum / Aluminum with Thermal Break / Wood or Vinyl
+Glazing Type: Clear / Tinted / Solar-control low-E / Solar-control low-E, argon gas fill / Insulating low-E / Insulating low-E, argon gas fill
+-OR- Actual window specifications = U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______ Window Area (sq. ft.):
+Front: __________ Right Side: ___________ Back: _________ Left Side: __________
+Window Characteristics: Front or All (circle one)
+Frame Type: Aluminum / Aluminum with Thermal Break / Wood or Vinyl
+Glazing Type: Clear / Tinted / Solar-control low-E / Solar-control low-E, argon gas fill / Insulating low-E / Insulating low-E, argon gas fill
+-OR- Actual window specifications = U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______ Wall Characteristics: Right Side (facing house)
+Construction: Wood Frame / Wood Frame with Rigid Foam Sheathing / Wood Frame with Optimum Value Engineering (OVE) / Structural Brick / Concrete Block or Stone / Straw Bale
+Exterior Finish: Wood, Asbestos, Fiber Cement, Composite Shingle or Masonite Siding / Stucco / Vinyl Siding / Aluminum Siding / Brick Veneer
+Home Energy Score – Data Collection 2 Revised 6/12/2013
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+WallInsulation: R-0/R-3/R-7/R-11/R-13/R-15/R-19/R-21/R-27/R-33/R-38
+￼Window Characteristics: Right Side (facing house)
+Frame Type: Aluminum / Aluminum with Thermal Break / Wood or Vinyl
+Glazing Type: Clear / Tinted / Solar-control low-E / Solar-control low-E, argon gas fill / Insulating low-E / Insulating low-E, argon gas fill
+-OR- Actual window specifications = U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______
+Wall Characteristics: Back
+Construction: Wood Frame / Wood Frame with Rigid Foam Sheathing / Wood Frame with Optimum Value
+Engineering (OVE) / Structural Brick / Concrete Block or Stone / Straw Bale
+Exterior Finish: Wood, Asbestos, Fiber Cement, Composite Shingle or Masonite Siding / Stucco / Vinyl
+Siding / Aluminum Siding / Brick Veneer
+WallInsulation: R-0/R-3/R-7/R-11/R-13/R-15/R-19/R-21/R-27/R-33/R-38
+Window Characteristics: Back
+Frame Type: Aluminum / Aluminum with Thermal Break / Wood or Vinyl
+Glazing Type: Clear / Tinted / Solar-control low-E / Solar-control low-E, argon gas fill / Insulating low-E / Insulating low-E, argon gas fill
+-OR- Actual window specifications = U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______ Wall Characteristics: Left Side (facing house)
+Construction: Wood Frame / Wood Frame with Rigid Foam Sheathing / Wood Frame with Optimum Value Engineering (OVE) / Structural Brick / Concrete Block or Stone / Straw Bale
+Exterior Finish: Wood, Asbestos, Fiber Cement, Composite Shingle or Masonite Siding / Stucco / Vinyl Siding / Aluminum Siding / Brick Veneer
+WallInsulation: R-0/R-3/R-7/R-11/R-13/R-15/R-19/R-21/R-27/R-33/R-38
+Windows Characteristics: Left Side (facing house)
+Frame Type: Aluminum / Aluminum with Thermal Break / Wood or Vinyl
+Glazing Type: Clear / Tinted / Solar-control low-E / Solar-control low-E, argon gas fill / Insulating low-E / Insulating low-E, argon gas fill
+-OR- Actual window specifications = U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______
+Home Energy Score – Data Collection 3 Revised 6/12/2013
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+Heating System
+￼Type of Heating System: None / Central Gas Furnace / Room (thru-the-wall) Gas Furnace / Propane Furnace / Oil Furnace / Electric Furnace / Electric Heat Pump / Electric Baseboard Heater / Gas Boiler / Oil Boiler
+Heating System Efficiency: Do you know the actual heating system efficiency?: Yes / No
+Year Installed: _____________________ OR Efficiency Value (AFUE or HSPF): _______________
+Cooling System:
+Type of Cooling System: None / Central Air Conditioner / Room Air Conditioner / Heat Pump
+Cooling System Efficiency: Do you know the actual cooling system efficiency?: Yes / No
+Year Installed: _____________________ OR Efficiency Value (SEER or EER): ________________
+Ducts
+Duct Location (#1): Conditioned Space / Unconditioned basement or unvented crawlspace / Vented
+crawlspace / Unconditioned attic / Unknown or not applicable
+Percentage of Ducts in this location: __________ Are ducts sealed?: Yes / No Are ducts insulated?: Yes / No
+Duct Location (#2): Conditioned Space / Unconditioned basement or unvented crawlspace / Vented crawlspace / Unconditioned attic / Unknown or not applicable
+Percentage of Ducts in this location: __________ Are ducts sealed?: Yes / No Are ducts insulated?: Yes / No Duct Location (#3): Conditioned Space / Unconditioned basement or unvented crawlspace / Vented
+crawlspace / Unconditioned attic / Unknown or not applicable
+Percentage of Ducts in this location: __________ Are ducts sealed?: Yes / No Are ducts insulated?: Yes / No
+Hot Water:
+Water Heater Type: Electric storage / Natural gas storage / LPG storage / Oil storage / Electric heat pump /
+Boiler with tank-less coil / Boiler with indirect tank
+Hot Water System Efficiency: Do you know the actual water heater energy factor?: Yes / No Year Installed: _____________________ OR Energy Factor (between 0-1): ________________
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Home Energy Score – Data Collection 4 Revised 6/12/2013
+￼
