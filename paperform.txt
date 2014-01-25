@@ -34,10 +34,6 @@ HOUSE INFORMATION
 	Direction Faced by Front of House:
 	N | NE | E | SE | S | SW | W | NW
 
-
-	Walls: Is this a Townhouse or Duplex?;
-	Position of Unit: Left | Middle | Right
-
 	Air Tightness (attach Air Tightness report?)
 	Has the house been professionally air sealed?: Yes | No
 	Air Leakage rate:  (input) cfm50
@@ -132,6 +128,10 @@ Cooling System
 	Efficiency Value (SEER or EER): ________________
 
 WALLS:
+	Is this a Townhouse or Duplex?;
+	
+	Position of Unit: Left | Middle | Right
+	
 	Are all 4 walls the same?
 	Wall Characteristics: Front or All (circle one)
 
