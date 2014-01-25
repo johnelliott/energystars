@@ -48,15 +48,17 @@ HEATING SYSTEM
 
 	Heating System Efficiency: Do you know the actual heating system efficiency?: Yes | No
 	Year Installed: (year)
-	Efficiency Value (AFUE or HSPF): (efficiency value)
+	Efficiency Value: (AFUE or HSPF)
+	
+HOT WATER
+	Water Heater Type:
+	Electric storage | Natural gas storage | LPG storage | Oil storage | Electric heat pump | Boiler with tank-less coil | Boiler with indirect tank
 
-ATTIC
-	Attic or Ceiling Type:
-	Unconditioned Attic | Conditioned Attic | Cathedral Ceiling
-
-	Attic Floor Insulation:
-	R-0 | R-3 | R-6 | R-9 | R-11 | R-19 | R-21 | R-25 | R-30 | R-38 | R-49 | R-60
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+	Hot Water System Efficiency:
+	Do you know the actual water heater energy factor?: Yes | No
+	Year Installed:  ________________
+	Energy Factor (between 0-1): ________________
+	
 SKYLIGHTS
 	Total Skylight Area (sq. ft.): __________
 
@@ -71,7 +73,6 @@ SKYLIGHTS
 	Actual window specifications:
 	U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______
 
-
 DUCTS
 	Duct Location (#1):
 	Conditioned Space | Unconditioned basement or unvented crawlspace | Vented
@@ -82,34 +83,21 @@ DUCTS
 	Are ducts sealed?: Yes | No
 
 	Are ducts insulated?: Yes | No
+	
+	Add another duct location? yes/no (if yes, repeat above. keep repeating until answer is no)
 
 
-HOT WATER
-	Water Heater Type:
-	Electric storage | Natural gas storage | LPG storage | Oil storage | Electric heat pump | Boiler with tank-less coil | Boiler with indirect tank
+ATTIC
+	Attic or Ceiling Type:
+	Unconditioned Attic | Conditioned Attic | Cathedral Ceiling
 
-	Hot Water System Efficiency:
-	Do you know the actual water heater energy factor?: Yes | No
-	Year Installed:  ________________
-	Energy Factor (between 0-1): ________________
-
+	Attic Floor Insulation:
+	R-0 | R-3 | R-6 | R-9 | R-11 | R-19 | R-21 | R-25 | R-30 | R-38 | R-49 | R-60
 
 /**
  * EXTERIOR
  */
 
-ROOF: INSULATION LEVEL
-	Roof Construction:
-	Standard Roof | with Radiant Barrier | with Rigid Foam Sheathing
-
-	Exterior Finish:
-	Composition Shingles or Metal | Wood Shake | Clay Tile | Concrete Tile | Tar & Gravel
-
-	Insulation Level (applied to roof):
-	R-0 | R-11 | R-13 | R-15 | R-19 | R-27
-
-	Roof Color (reflectivity):
-	White | Light | Medium | Medium Dark | Dark | Cool Color:
 	
 FOUNDATION
 	Type: Slab-on-Grade | Unconditioned Basement| Conditioned Basement | Unvented Crawlspace | Vented Crawlspace
@@ -164,3 +152,16 @@ WINDOW CHARACTERISTICS
 
 	Actual window specifications
 	U-Factor (from 0.01 – 5): _________ SHGC (from 0 – 1): ______
+	
+ROOF: INSULATION LEVEL
+	Roof Construction:
+	Standard Roof | with Radiant Barrier | with Rigid Foam Sheathing
+
+	Exterior Finish:
+	Composition Shingles or Metal | Wood Shake | Clay Tile | Concrete Tile | Tar & Gravel
+
+	Insulation Level (applied to roof):
+	R-0 | R-11 | R-13 | R-15 | R-19 | R-27
+
+	Roof Color (reflectivity):
+	White | Light | Medium | Medium Dark | Dark | Cool Color:
