@@ -20,7 +20,7 @@ ASSESSMENT INFORMATION
 	Qualified Assessor
 	Comments
 
-HOUSE INFORMATION (2)
+HOUSE INFORMATION
 	Year Built:
 
 	# of Bedrooms:
@@ -46,16 +46,6 @@ HOUSE INFORMATION (2)
  * INTERIOR
  */
 
-FOUNDATION (2)
-	Type: Slab-on-Grade | Unconditioned Basement| Conditioned Basement | Unvented Crawlspace | Vented Crawlspace
-
-	Insulation over Basement or Crawlspace:
-	R-0 | R-11 | R-13 | R-15 | R-19 | R-21 | R-25 | R-30 | R-38
-
-	Foundation Insulation:
-	None | R-5 (slab only) | R-11 (bsmt/crawl wall) | R-19 (bsmt/crawl wall)
-
-
 HEATING SYSTEM
 	Type of Heating System:
 	None | Central Gas Furnace | Room (thru-the-wall) Gas Furnace | Propane Furnace | Oil Furnace | Electric Furnace | Electric Heat Pump | Electric Baseboard Heater | Gas Boiler | Oil Boiler
@@ -63,22 +53,6 @@ HEATING SYSTEM
 	Heating System Efficiency: Do you know the actual heating system efficiency?: Yes | No
 	Year Installed: (year)
 	Efficiency Value (AFUE or HSPF): (efficiency value)
-
-
-
-ROOF: INSULATION LEVEL (2)
-	Roof Construction:
-	Standard Roof | with Radiant Barrier | with Rigid Foam Sheathing
-
-	Exterior Finish:
-	Composition Shingles or Metal | Wood Shake | Clay Tile | Concrete Tile | Tar & Gravel
-
-	Insulation Level (applied to roof):
-	R-0 | R-11 | R-13 | R-15 | R-19 | R-27
-
-	Roof Color (reflectivity):
-	White | Light | Medium | Medium Dark | Dark | Cool Color:
-
 
 ATTIC
 	Attic or Ceiling Type:
@@ -128,11 +102,29 @@ HOT WATER
  * EXTERIOR
  */
 
-(2) House Information: Direct Faced by Front of House
-(2) Roof
-(2) Foundation
+ROOF: INSULATION LEVEL
+	Roof Construction:
+	Standard Roof | with Radiant Barrier | with Rigid Foam Sheathing
 
-	Cooling System
+	Exterior Finish:
+	Composition Shingles or Metal | Wood Shake | Clay Tile | Concrete Tile | Tar & Gravel
+
+	Insulation Level (applied to roof):
+	R-0 | R-11 | R-13 | R-15 | R-19 | R-27
+
+	Roof Color (reflectivity):
+	White | Light | Medium | Medium Dark | Dark | Cool Color:
+	
+FOUNDATION
+	Type: Slab-on-Grade | Unconditioned Basement| Conditioned Basement | Unvented Crawlspace | Vented Crawlspace
+
+	Insulation over Basement or Crawlspace:
+	R-0 | R-11 | R-13 | R-15 | R-19 | R-21 | R-25 | R-30 | R-38
+
+	Foundation Insulation:
+	None | R-5 (slab only) | R-11 (bsmt/crawl wall) | R-19 (bsmt/crawl wall)
+
+Cooling System
 	Type of Cooling System:
 	None | Central Air Conditioner | Room Air Conditioner | Heat Pump
 
