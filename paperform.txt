@@ -117,13 +117,11 @@ Cooling System
 	Year Installed: _____________________
 	Efficiency Value (SEER or EER): ________________
 
-WALLS:
+WALLS: {see white board!}
 	Is this a Townhouse or Duplex? Yes | No
 	
-{if yes, show following question}
 	Position of Unit: Left | Middle | Right
 	
-{if townhouse or duplex is no, show the following question}	
 	Are all walls the same?
 	Wall Characteristics: Front or All (circle one)
 
@@ -139,7 +137,7 @@ WALLS:
 	R-0 | R-3 | R-7 | R-11 | R-13 | R-15 | R-19 | R-21 | R-27 | R-33 | R-38
 
 
-WINDOW CHARACTERISTICS
+WINDOWS: {see white board!}
 	Window Characteristics: Front or All (circle one)
 
 	Window Area (sq. ft.):
