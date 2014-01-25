@@ -112,15 +112,19 @@ Cooling System
 	Type of Cooling System:
 	None | Central Air Conditioner | Room Air Conditioner | Heat Pump
 
+	Do you know the actual cooling system efficiency? Yes | No 
+{only show following two questions if answer is yes}
 	Year Installed: _____________________
 	Efficiency Value (SEER or EER): ________________
 
 WALLS:
-	Is this a Townhouse or Duplex?;
+	Is this a Townhouse or Duplex? Yes | No
 	
+{if yes, show following question}
 	Position of Unit: Left | Middle | Right
 	
-	Are all 4 walls the same?
+{if townhouse or duplex is no, show the following question}	
+	Are all walls the same?
 	Wall Characteristics: Front or All (circle one)
 
 	No: Start asking about each wall one by one
